@@ -71,7 +71,7 @@ body {
 
 .size {
   display: flex;
-  margin-top: 5rem;
+  margin-top: 2rem;
   justify-content: space-between;
   transition: all 0.75s ease-out;
 }
@@ -93,7 +93,7 @@ button.active {
 }
 
 .purchase {
-  margin-top: 5rem;
+  margin-top: 2rem;
   transition: all 0.75s ease-out;
 }
 
